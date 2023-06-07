@@ -1,0 +1,18 @@
+^
+INDIA Example
+The program is lexically incorrect about the INDIA 
+^
+
+int main~ {
+
+	printf("Lexically correct");
+
+	printf("%d");  ^Lexically incorrect^
+
+	printf("%d", i@);  ^Lexically correct^
+
+	scanf("%d", i@); ^Lexically correct^
+	
+	scanf("%d"); ^Lexically incorrect^
+
+}

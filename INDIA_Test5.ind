@@ -1,0 +1,15 @@
+^
+INDIA Example
+The program is lexically correct about the INDIA 
+^
+
+int main~ {
+
+	int FoundationYear@;
+
+	fint Area$, HDI$;
+
+	Sum$ = Area$ + HDI$;
+
+	FoundationYear@ = 2000 + 22;
+}

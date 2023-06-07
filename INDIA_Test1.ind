@@ -1,0 +1,10 @@
+^
+INDIA Example of Hello World!
+The program is lexically correct about the INDIA 
+^
+
+int main~ {
+
+	printf("Hello World!");
+
+}

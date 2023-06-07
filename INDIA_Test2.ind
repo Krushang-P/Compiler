@@ -1,0 +1,18 @@
+^
+INDIA Example for calculating Volume of sphere
+The program is lexically correct about the INDIA 
+^
+
+int main~ {
+
+	fint PI$, r$, Vol$;
+	
+	PI$ = 3.14;
+
+	scanf("%f", Vol$);
+
+	Vol$ = 4.0/3.0*PI$*(r$*r$*r$);
+
+	printf("%f", Vol$);
+
+}

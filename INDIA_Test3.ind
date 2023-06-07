@@ -1,0 +1,36 @@
+^
+INDIA Example
+The program is lexically correct about the INDIA 
+^
+
+int main~ {
+
+	int FoundationYear@;
+
+	fint Area$, HDI$;
+
+	string CountryName&;
+
+	boolean flag?;
+
+	boolean flag2?;
+
+	FoundationYear@ = 7000;
+
+	Area$ = 492.0;
+	
+	HDI$ = 0.871;
+	
+	CountryName& = "INDIA";
+
+	CountryName& = "INDIA" ++ "CODE";
+
+	CountryName& = CountryName& ++ "CODE";
+
+	flag? = YES;
+
+	flag2? = flag?;
+
+	printf("%s", CountryName&);
+
+}
